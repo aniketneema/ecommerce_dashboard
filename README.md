@@ -17,13 +17,6 @@ pip install -r requirements.txt
 streamlit run Home.py
 ```
 
-## ☁️ Deploy Free on Streamlit Cloud
-
-1. Push this folder to GitHub
-2. Go to https://share.streamlit.io → Sign in with GitHub
-3. New app → Select repo → **Main file: `Home.py`**
-4. Deploy → Share the public URL
-
 ## 📁 Structure
 
 ```
