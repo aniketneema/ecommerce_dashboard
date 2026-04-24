@@ -1,4 +1,4 @@
-# 🏪 RetailIQ — Analytics Suite v2
+# 🏪 RetailIQ — Analytics Suite
 
 Advanced 3-dashboard Streamlit app with **ML-powered insights**.
 
